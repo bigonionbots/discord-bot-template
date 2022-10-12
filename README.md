@@ -3,6 +3,7 @@
 Requires:
 - node (tested with v17.8.0)
 - discord.js (tested with 14.3.0)
+- node-fetch (tested with 2.6.7)
 
 Includes some functions in `lib/utils.js` to for
 
