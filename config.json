@@ -1,0 +1,5 @@
+{
+	"clientId":"[client/application ID of bot]",
+	"botColor":"0xffffff",
+	"webhookURL":"[webhook URL for bot alerts of errors/messages]"
+}
